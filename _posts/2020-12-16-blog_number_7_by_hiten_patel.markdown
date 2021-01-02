@@ -56,7 +56,7 @@ Sophisticated software then processes all this sensory input, plots a path, and 
 
 Object recognition is a two-part process, object (image) classification and then object (image) localization. Object classification is determining what the objects in the image are, like a car or a person, while object localization is providing the specific location of these objects. 
 
-To perform image classification, a convolutional neural network is trained to recognize various objects, like traffic lights, cars, signs, lanes, bikes and pedestrians. A convolutional neural network performs convolution operations on images in order to classify them. To learn how to create and build  a multi-label image classification CNN model, please vist my [github account](https://github.com/hpatel530/Capstone/blob/main/ImageClassification.ipynb). 
+To perform image classification, a convolutional neural network is trained to recognize various objects, like traffic lights, cars, signs, lanes, bikes and pedestrians. A convolutional neural network performs convolution operations on images in order to classify them. To learn how to create and build  a multi-label image classification CNN model, please visit my [github account](https://github.com/hpatel530/Capstone/blob/main/ImageClassification.ipynb). 
 
 
 **Challenges**
@@ -80,7 +80,7 @@ There are many challenges in this journey to creating and releasing autonomous v
 
 **Conclusion**
 
-Autonomous cars promise to be an efficient and sustainable mode of transportation for everyone, preventing accidents, mitigating deaths, reducing C02 emssions and making commuting convenient for all. The evolution of autonomous cars is continuing and modern AI technologies and machine learning development is making rapid leaps forward. If the people’s thought hasn’t changed about self-driving cars being safe, these cars are already safe and are becoming safer. 
+Autonomous cars promise to be an efficient and sustainable mode of transportation for everyone, preventing accidents, mitigating deaths, reducing C02 emissions and making commuting convenient for all. The evolution of autonomous cars is continuing and modern AI technologies and machine learning development is making rapid leaps forward. If the people’s thought hasn’t changed about self-driving cars being safe, these cars are already safe and are becoming safer. 
 
 
 
