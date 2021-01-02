@@ -80,7 +80,7 @@ There are many challenges in this journey to creating and releasing autonomous v
 
 **Conclusion**
 
-Autonomous cars promise to be an efficient and sustainable mode of transportation for everyone, preventing accidents, mitigating deaths, reducing C02 emissions and making commuting convenient for all. The evolution of autonomous cars is continuing and modern AI technologies and machine learning development is making rapid leaps forward. If the people’s thought hasn’t changed about self-driving cars being safe, these cars are already safe and are becoming safer. 
+Autonomous cars promise to be an efficient and sustainable mode of transportation for everyone, preventing accidents, mitigating deaths, reducing C02 emissions and making commuting convenient for all. The evolution of autonomous cars is continuing and modern AI technologies and machine learning development is making rapid leaps forward. If the people’s thought hasn’t changed about autonomous vehicles being safe, the reality is these vehicles are already safe and are becoming safer. It is change that you will need to accept. 
 
 
 
