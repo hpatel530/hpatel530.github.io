@@ -26,7 +26,7 @@ Now, let's explore some techniques for extracting information from a text.
 1. **Named Entity Recognition:**
 The most basic and useful technique in NLP is extracting the entities in the text. It highlights the fundamental concepts and references in the text. Named entity recognition (NER) identifies entities such as people, locations, organizations, dates, etc. from the text.
 
-2. ** Sentiment Analysis:**
+2. **Sentiment Analysis:**
 The most widely used technique in NLP is sentiment analysis. Sentiment analysis is most useful in cases such as customer surveys, reviews and social media comments where people express their opinions and feedback. The simplest output of sentiment analysis is a 3-point scale: positive/negative/neutral. In more complex cases the output can be a numeric score that can be bucketed into as many categories as required.
 
 3. **Text Summarization:**
